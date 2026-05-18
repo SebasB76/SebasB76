@@ -52,7 +52,7 @@ I enjoy creating projects that generate value for people, learning new technolog
 MediCopay is a Spanish conversational assistant that estimates medical copays and recommends hospitals in Ecuador based on the user's symptoms, city and insurance plan. It suggests a medical specialty, compatible hospitals and an approximate copay.
 
 **Technologies used:**  
-`Next.js` `TypeScript` `Vercel AI SDK` `Groq` `Zod` `Tailwind CSS` `Vitest`
+`Next.js` `TypeScript` `Tailwind CSS` `Vitest`
 
 **Repository:**  
 https://github.com/SebasB76/medicopay
@@ -66,7 +66,7 @@ Govly is a web and mobile platform developed during the **INNOVaiLAB Hackathon â
 I collaborated on the frontend development of a solution focused on centralizing information about government procedures in Ecuador, making public services easier to access for citizens.
 
 **Technologies used:**  
-`React` `TypeScript` `Vite` `Frontend Development` `UI Components`
+`React` `TypeScript` `Vite` 
 
 **Role:**  
 Frontend development, screen design and implementation of user-oriented features.
