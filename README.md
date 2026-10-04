@@ -1,4 +1,4 @@
-### Sebastián 👋
+### Seb's 👋
 
 20 · Guayaquil, Ecuador  
 CS student at ESPOL · R&D intern at [Jelou](https://jelou.ai)  
