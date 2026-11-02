@@ -7,7 +7,7 @@ building things. into LLMs & agentic stuff.
 🏆 NASA Space Apps '25 · AgroFuturo '25 · InnovAILab '26 · 🥈 hackIAthon '26
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SebasB76/SebasB76/submarine/submarine.gif" width="256" alt="My Yellow Submarine, redrawn every night from my GitHub activity" />
+  <img src="https://raw.githubusercontent.com/SebasB76/SebasB76/submarine/submarine.gif" width="100%" alt="My Yellow Submarine, redrawn every night from my GitHub activity" />
   <br />
   <sub> We all live in a <a href="https://github.com/SebasB76/yellow-submarine">yellow submarine</a></sub>
 </p>
